@@ -1,23 +1,42 @@
 ---
 layout: page
-title: About the site, the author, the life, the universe and everything more.
+title: 细雨未必看不见，闲花未必听无声
 permalink: about/
 ---
 
 <div class="message">
-  This page will be ready soon! Meanwhile, stay with this beautiful latin text below.
+  人，活在世上，不仅仅为了每天的三餐饭，也不仅仅为了铜臭，而是为了灵魂的永存。
 </div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget neque fringilla, pulvinar odio sit amet, malesuada ligula. Curabitur aliquam tempor nibh vel convallis. Integer erat dolor, convallis nec felis at, gravida volutpat magna. Fusce nec nunc id risus tempus luctus. Integer vehicula ipsum fermentum est lobortis condimentum. Nulla at placerat ipsum, quis mollis dui. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum a sagittis velit. Etiam non diam quis massa fermentum tristique. Cras porta, magna a malesuada facilisis, magna diam mattis odio, ac placerat erat erat a orci. Proin id metus nulla. In at nisi eu nisi elementum tincidunt eu at ipsum. Praesent condimentum varius quam, a rutrum sem ultricies eu. Quisque nisl sem, lobortis et laoreet mattis, faucibus at quam. Suspendisse potenti. Nunc eget purus eget metus convallis auctor eu in libero.
-
-Aliquam vulputate augue magna, sit amet volutpat odio adipiscing non. Nulla congue orci tortor, a facilisis felis faucibus sit amet. Sed aliquam nibh id ornare sagittis. Cras faucibus, est aliquam sollicitudin consectetur, elit urna eleifend nunc, consectetur malesuada odio nulla a justo. Aliquam id elit nisl. Fusce quis mauris massa. Etiam quis adipiscing ligula. Suspendisse nec mi posuere, gravida mi in, volutpat libero. Etiam tempus facilisis erat. Nulla eget porta turpis, id porttitor tellus. Aenean posuere sollicitudin condimentum. Vestibulum gravida dolor nec nisl pellentesque consequat. Nam et commodo arcu.
-
-Sed ultrices viverra condimentum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed nec sodales mi, vel posuere sem. Nullam ultrices tellus enim, a iaculis urna facilisis ac. Donec euismod egestas nisi, sit amet viverra felis volutpat malesuada. Nunc tincidunt arcu nunc, ac commodo mauris tristique quis. Curabitur et risus fringilla, semper odio at, tristique enim. Suspendisse varius, augue et commodo feugiat, magna tellus vestibulum turpis, et aliquet odio erat eget arcu. Nam tincidunt porttitor tincidunt. Nullam metus sapien, pretium at nisi quis, malesuada cursus tortor. Sed interdum turpis ante, ac feugiat odio ultrices at. Cras ornare quam ipsum, at sagittis libero interdum at. Donec consequat dignissim risus, sed mollis urna rutrum vel. Morbi dapibus feugiat tellus dictum blandit.
-
-Nulla id erat a neque mattis dignissim sit amet eget nunc. Nulla facilisi. Praesent vitae venenatis nisi. Donec varius a mi vitae tristique. Vivamus vitae sapien ac justo malesuada adipiscing. Praesent neque risus, laoreet quis vehicula sit amet, ullamcorper id arcu. Maecenas eleifend quam in purus auctor molestie. In hac habitasse platea dictumst. Praesent non felis aliquam, vestibulum tortor eget, lobortis eros. Ut accumsan nisl sapien, eget pretium magna porttitor et. Nam hendrerit dui velit, ac pharetra ante tristique ac. Suspendisse vitae arcu justo.
-
-Ut sit amet mollis velit. Vivamus eget diam id diam convallis molestie et sagittis diam. Vestibulum pharetra tristique est vel adipiscing. In a est dignissim, auctor magna at, cursus leo. Maecenas varius augue non lacinia eleifend. Fusce tempor elementum rutrum. Donec dolor tortor, condimentum sed vehicula vitae, vehicula at leo. Sed malesuada pulvinar nibh, nec tristique orci semper sed. Aenean risus nisl, placerat vel euismod quis, posuere rhoncus dolor. In quis ante placerat, euismod risus ut, congue dui. Duis luctus semper nunc vel pulvinar. Donec consequat, lorem nec rutrum venenatis, nisi neque pulvinar libero, id venenatis massa magna quis nisl. Nam sit amet tincidunt nunc. Suspendisse sem eros, blandit quis luctus sit amet, feugiat eu tellus. Suspendisse ac consectetur risus. Etiam in hendrerit magna, id tempus eros.
-
-Morbi euismod suscipit suscipit. Phasellus a arcu ac turpis lacinia dictum. Mauris imperdiet commodo quam et condimentum. Aenean est ligula, hendrerit et varius quis, luctus et lorem. Aliquam vestibulum et magna nec aliquam. Suspendisse eu ultricies lectus. Duis vel lorem ut quam bibendum viverra. Curabitur scelerisque, mauris dignissim dignissim egestas, tortor eros pellentesque nunc, ac elementum justo libero sollicitudin erat. Suspendisse suscipit orci eu nibh elementum, non cursus turpis ullamcorper. Integer vehicula libero et tellus vulputate, eu aliquam diam placerat. Morbi pharetra, urna quis bibendum vulputate, nibh nisl dictum risus, et cursus tortor tortor id libero. Integer accumsan, enim sit amet blandit ultricies, diam elit condimentum justo, quis adipiscing dolor eros non neque. Vivamus commodo sem libero, sit amet tincidunt nisi accumsan vitae. Donec nec sem nunc. Phasellus sed placerat erat. Integer nisi lectus, cursus a est id, gravida aliquam purus.
-
-Good bye, and thank's for all the fish!
+皑皑白雪，你是否已迷失了归途的方向？浓密的森林，你是否
+已看不清灿烂的天空？忘记自己的细微，忘掉自己的渺小，在雪地
+中奔跑，拨开森林的迷雾，你的身影将会变得高大，你的人生也定
+会精彩。
+“仰天长啸出门去，我辈岂是蓬蒿人”的李白，不畏贵妃研墨
+，力士脱靴的后果，不畏玄宗的赐金放还。虽有昭昭明月之德，日
+月齐辉之才，终化为泡影，他是长安的细雨，他是朝庭的闲花，他
+空有满腔的抱负却无计可施，但在这样的情况下，他仍高歌“高能
+摧眉折腰事权贵，使我不得开心颜”。他把对朝庭的失望，对自己
+的希望化作了人类不朽的诗篇，这滴春雨，这片闲花，化作无数的
+雨滴，无数的鲜花，落进千家万户，洒遍中华大地。
+胸纳幽兰，神容主若。他，一个不爱仕途，但爱美人，不爱富
+贵但爱超然的翩翩公子，虽出身显赫却博古通今，虽是奴才却不甘
+做奴才。他叫纳兰容若，与康熙相伴了31年的臣子。在他的生命
+中，他的主子驱使了他的一切，雪藏了他的才华。他只能做康熙的
+陪衬，做君王身边的细雨闲花，但即使如此，仍然没有人能漠视他
+的才华，他把幽怨化作了一支笔，书写了“人生若只如初见”的凄
+婉情怀。他忧郁而终，短短31载，弹指一挥间，却创作出人间最
+动人的诗词。这滴细雨，这片闲花，发出炫目的光，震撼你我的心
+灵。
+萧红，近代最伟大的女作家，却饱受了人世间的一切悲苦——
+亲人逝世，家族歧视，爱人背叛，恩师离去，穷困潦倒……在这样
+的情况下，她把人间的悲苦都化作了笔下灵动的文字，随着呼兰河
+水，汨汨流去。她是家庭的细雨，爱人的闲花。就是这滴细雨，这
+片闲花，给中国文坛注入了清泉，注入了活力。
+他们曾是社会中最不起眼的小人物，却也在历史上留下了高大
+的背影。他们拥有不同的人生，不同的经历，却共同昭示了一个道
+理——细雨未必看不见，闲花未必听无声。
+相信自己在皑皑白雪中终会找到归途的方向，在森林中终会看
+到明媚的阳光，虽然我们在宇宙中微小的如细雨闲花，但只要努力
+，不同命运低头，终有一天我们的灵魂会照亮未来。
+细雨一定看得见，闲花定然听有声。
