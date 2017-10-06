@@ -47,10 +47,10 @@ menu:
     url:          /about
 
 copyright:
-  author:         Camporez
-  url:            http://camporez.github.io
-  type_title:     Some rights reserved
-  type_url:       http://creativecommons.org/licenses/by-nc/2.5
+  author:         NoPad
+  url:            http://nopad.org
+  type_title:     项目支持：Dixin_Ren
+  type_url:       https://dixin.ren
 
 parallax:         false
 
