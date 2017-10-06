@@ -4,7 +4,7 @@ markdown:	kramdown
 permalink:	/blog/:title
 
 # Setup
-title:            NoPad
+title:            ChainsX
 tagline:          'blog'
 description:      'My personal blog.'
 url:              http://cxbusy.github.io
@@ -14,7 +14,7 @@ disqus:           example
 
 author:
   name:           Ian Brunelli
-  url:            https://google.com/+IanCamporezBrunelli
+  url:            https://google.com/+pzhrhlx
 
 paginate:         5
 
@@ -28,11 +28,11 @@ social:
     desc:         Follow me on twitter
 
   - icon:         github
-    url:          https://github.com/camporez
+    url:          https://github.com/chainsx
     desc:         Fork me on github
 
   - icon:         googleplus-alt
-    url:          https://google.com/+IanCamporezBrunelli
+    url:          https://google.com/+pzhrhlx
     desc:         Add me on google+
 
   - icon:         feed
